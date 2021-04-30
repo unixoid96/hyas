@@ -1,7 +1,7 @@
-title = "Hyas"
+title = "ГОСТИНЫЙ ДВОР"
 titleSeparator = "-"
-titleAddition = "Modern Hugo Starter"
-description = "Hugo starter helping you build modern websites."
+titleAddition = "УЮТНЫЙ ОТДЫХ В ХАКАСИИ"
+description = "Малая Сыя | Гостиный двор | Отдых в Хакасии 2021"
 
 images = ["hyas.png"]
 
@@ -16,9 +16,9 @@ schemaLogo = "logo-hyas.png"
 schemaTwitter = "https://twitter.com/henkverlinde"
 schemaLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
 schemaGitHub = "https://github.com/h-enk"
-schemaSection = "blog"
+schemaSection = "blog1"
 
-siteLinksSearchBox = false
+siteLinksSearchBox = true
 
 themeColor = "#fff"
 
