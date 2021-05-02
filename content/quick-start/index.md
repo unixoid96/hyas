@@ -40,7 +40,6 @@ images: []
 
 - [Вконтакте](https://vk.com/restinkhakassia)
 - [Инстаграм](https://instagram.com/malaya_siya)
-- [Почта](https://github.com/h-enk/hyas/discussions)
 - [Телефон](tel:+79130597432)
 - [Телефон](tel:+79831993288)
 - [Телефон](tel:+79130583526)
