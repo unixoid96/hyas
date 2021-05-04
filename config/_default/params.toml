@@ -3,12 +3,12 @@ titleSeparator = "-"
 titleAddition = "УЮТНЫЙ ОТДЫХ В ХАКАСИИ"
 description = "Малая Сыя | Гостиный двор | Отдых в Хакасии 2021"
 
-images = ["hyas.png"]
+images = ["t4WMyHyaVxg.png"]
 
-twitterSite = "@henkverlinde"
-twitterCreator = "@henkverlinde"
-facebookAuthor = "verlinde.henk"
-facebookPublisher = "verlinde.henk"
+twitterSite = "@slv"
+twitterCreator = "@slv"
+facebookAuthor = "slv"
+facebookPublisher = "slv"
 ogLocale = "en_US"
 
 schemaType = "Organization"
@@ -25,7 +25,7 @@ themeColor = "#fff"
 quality = 85
 bgColor = "#fff"
 landscapePhotoWidths = [1000, 800, 700, 600, 500]
-portraitPhotoWidths = [800, 700, 600, 500]
+portraitPhotoWidths = [800, 700, 600, 500, 200]
 lqipWidth = "20x"
 
 # Footer

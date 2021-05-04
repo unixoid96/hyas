@@ -1,14 +1,14 @@
 [[main]]
-  name = "GitHub"
-  url = "https://github.com/h-enk/hyas"
+  name = "Вконтакте"
+  url = "https://vk.com/restinkhakassia"
   weight = 10
 
 [[social]]
-  name = "LinkedIn"
-  url = "https://www.linkedin.com/in/henkverlinde/"
+  name = "Инстаграм"
+  url = "https://instagram.com/malaya_siya"
   weight = 20
 
 [[social]]
-  name = "Twitter"
-  url = "https://twitter.com/henkverlinde"
+  name = "Телефон"
+  url = "tel:+79130597432"
   weight = 30
